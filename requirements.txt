@@ -1,0 +1,8 @@
+Django==5.0.7
+psycopg==3.2.1
+opentelemetry-sdk>=1.25
+opentelemetry-exporter-otlp-proto-http==1.26.0
+opentelemetry-instrumentation-django==0.46b0
+opentelemetry-instrumentation-requests==0.47b0
+opentelemetry-instrumentation-psycopg==0.47b0
+requests>=2.32.3
